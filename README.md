@@ -1,10 +1,10 @@
 # NestJS MongoDb GraphQL
 
-This project uses NestJS, GraphQL, and MongoDB.
+NestJS, GraphQL, and MongoDB.
 
 This project implements user authentication. Adding other GraphQL schemas to this project will be easy following the same structure. User auth has always been one of the hardest and most common thing to implement, so that is what is implemented in this project.
 
-The intent of this project is to provide an example of how to integrate all of these technologies together that are in the NestJS documentation (NestJS, GraphQL, MongoDB, Mongoose, Passport, JWT, DotEnv, Joi, Jest) into a working backend. If you recognize an anti-pattern or a better way to do something, please post an issue.
+The intent of this project is to provide an example of how to integrate all of these technologies together that are in the NestJS documentation (NestJS, GraphQL, MongoDB, Mongoose, Passport, JWT, DotEnv, Joi, Jest) into a working backend. 
 
 ![preview](assets/preview.png)
 
